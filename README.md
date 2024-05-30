@@ -47,6 +47,7 @@
 <img style="pointer-events: none;" src="https://img.shields.io/badge/Figma-c600c7?style=for-the-badge&logoColor=white">
 <img style="pointer-events: none;" src="https://img.shields.io/badge/Xcode-0169d0?style=for-the-badge&logoColor=white">
 <img style="pointer-events: none;" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logoColor=white">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Fork-00dae6?style=for-the-badge&logoColor=white">
 </p> 
 
 ---
